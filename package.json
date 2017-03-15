@@ -1,0 +1,29 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+	"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamthanhtran/MEAN-stack-app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "ttt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamthanhtran/MEAN-stack-app/issues"
+  },
+  "homepage": "https://github.com/tamthanhtran/MEAN-stack-app#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
